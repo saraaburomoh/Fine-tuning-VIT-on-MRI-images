@@ -32,4 +32,4 @@ Visualization: Below is an example of model predictions compared to true labels:
 Technologies Used:
 Frameworks: PyTorch, Hugging Face Transformers
 Libraries: scikit-learn, Torchvision, Matplotlib
-Platform: Google Colab (for training)
+Platform: Google Colab (for training) 
